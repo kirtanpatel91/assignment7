@@ -1,4 +1,4 @@
-@import "http://fonts.googleapis.com/css?family=Open+Sans";
+@import http://fonts.googleapis.com/css?family=Open+Sans;
 
 /*
   File: 
@@ -10,8 +10,6 @@
 */
 /* Use Google Fonts. */
 /* Background color to be black.*/
-
-
 /* Unordered list style will be none.*/
 ul {
     list-style-type:none
